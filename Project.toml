@@ -1,0 +1,15 @@
+name = "PGFPlotsXExtras"
+uuid = "67b8fe89-f473-4614-9e38-d2562480aae4"
+authors = ["Tamás K. Papp <tkpapp@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[compat]
+julia = "1"
